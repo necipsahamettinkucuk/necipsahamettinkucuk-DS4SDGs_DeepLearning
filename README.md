@@ -1,1 +1,1 @@
-# necipsahamettinkucuk-DS4SDGs_DeepLearning
+# DS4SDGs_DeepLearning
